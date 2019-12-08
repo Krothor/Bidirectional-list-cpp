@@ -1,0 +1,6 @@
+﻿ListaDwukierunkowa-MichalWadas.obj : error LNK2005: Element "struct element * __cdecl LastElement(struct element *)" (?LastElement@@YAPAUelement@@PAU1@@Z) jest już zdefiniowany w elemencie 7.4.obj
+ListaDwukierunkowa-MichalWadas.obj : error LNK2005: Element "void __cdecl dodajNaPoczatek(struct element * &,int const &)" (?dodajNaPoczatek@@YAXAAPAUelement@@ABH@Z) jest już zdefiniowany w elemencie 7.4.obj
+ListaDwukierunkowa-MichalWadas.obj : error LNK2005: Element "void __cdecl reverse(struct element * &,struct element * &)" (?reverse@@YAXAAPAUelement@@0@Z) jest już zdefiniowany w elemencie 7.4.obj
+ListaDwukierunkowa-MichalWadas.obj : error LNK2005: Element "void __cdecl showList(struct element *)" (?showList@@YAXPAUelement@@@Z) jest już zdefiniowany w elemencie 7.4.obj
+ListaDwukierunkowa-MichalWadas.obj : error LNK2005: Element _main jest już zdefiniowany w elemencie 7.4.obj
+C:\Users\Midas\source\repos\ListaDwukierunkowa-MichalWadas\Debug\ListaDwukierunkowa-MichalWadas.exe : fatal error LNK1169: znaleziono co najmniej jeden wielokrotnie zdefiniowany symbol
